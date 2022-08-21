@@ -1,12 +1,12 @@
 # CodePath-PreWork
 Codepath Prework Project
-## Hello Color
+## Hello Color Changing App
 
 ### App Description
-`TODO://` Provides a button to click and change color of the text
+` Provides a button to click and change color of the text
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`
 
 <img src="http://g.recordit.co/zxi0OErJXF.gif" width=200><br>
 
